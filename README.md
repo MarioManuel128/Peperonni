@@ -10,3 +10,8 @@ Minecraft es un videojuego creado para divertirse, el juego tiene varios factore
 *El videojuego minecraft tambien contiene un modo de juego multijugador*
 
 **El cual dos personas con dispositivos y el juego podrian jugar en un mismo mundo**
+
+// Aquest és un bloc de codi
+exemple de funció () {
+// Exemple de codi
+}
